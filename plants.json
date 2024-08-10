@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Pandan",
+        "scientificName": "Pandanus amaryllifolius",
+        "image": "img/pandan.JPG",
+        "otherNames": "Pandan Wangi",
+        "benefits": [
+            "Pandan memiliki sifat penenang dan antimikroba. Bermanfaat untuk meredakan stres, mengatasi insomnia, dan meningkatkan aroma serta rasa dalam masakan."
+
+        ],
+        "uses": [
+            "Daun pandan sering digunakan dalam masakan untuk memberikan aroma harum seperti pada nasi, kue, atau minuman. Juga digunakan dalam ramuan tradisional untuk mengatasi masalah pencernaan."
+
+        ]
+    }
+]
